@@ -2,6 +2,3 @@
 name = "SADP2PC-client"
 version = "0.1.0"
 authors = ["tzaeru <tzaeru@gmail.com>"]
-
-[dependencies]
-rustty = "*"
